@@ -1,3 +1,3 @@
 # Stage Planner – Handgun & PCC
 
-Veröffentlichte Web-App (Version 3.2.0). Nutzung nur mit Lizenz bzw. in der Testphase; alle Rechte vorbehalten.
+Veröffentlichte Web-App (Version 3.2.1). Nutzung nur mit Lizenz bzw. in der Testphase; alle Rechte vorbehalten.
