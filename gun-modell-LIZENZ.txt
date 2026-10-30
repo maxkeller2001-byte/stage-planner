@@ -1,0 +1,9 @@
+3D-Modell der Production-Pistole (gun-g19.glb)
+
+Grundlage: "Glock 19 Semi Automatic Pistol 9mm" von luisbcompany
+Quelle:    https://www.cgtrader.com/free-3d-models/military/gun/glock-19-semi-automatic-pistol-9mm (Modell-ID 4250076)
+Lizenz:    CGTrader Royalty Free License (no AI)
+
+Bearbeitung für den Stage Planner: Herstellerlogos und Schriftzüge vom Schlitten entfernt,
+Texturen verkleinert (2048/1024 px), in Teile für Schlitten, Abzug und Magazin zerlegt, als GLB gespeichert.
+Die Rohdateien werden nicht weitergegeben. "Glock" ist eine Marke der GLOCK Ges.m.b.H.; der Stage Planner steht in keiner Verbindung zum Hersteller.
