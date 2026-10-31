@@ -1,9 +1,24 @@
-3D-Modell der Production-Pistole (gun-g19.glb)
+3D-Modelle der Waffen im Stage Planner (gun-*.glb)
 
-Grundlage: "Glock 19 Semi Automatic Pistol 9mm" von luisbcompany
-Quelle:    https://www.cgtrader.com/free-3d-models/military/gun/glock-19-semi-automatic-pistol-9mm (Modell-ID 4250076)
-Lizenz:    CGTrader Royalty Free License (no AI)
+gun-g19.glb   Production / Production Optics
+  Grundlage: "Glock 19 Semi Automatic Pistol 9mm" von luisbcompany
+  Quelle:    https://www.cgtrader.com/free-3d-models/military/gun/glock-19-semi-automatic-pistol-9mm (Modell-ID 4250076)
+  Lizenz:    CGTrader Royalty Free License (no AI)
+  Bearbeitung: Herstellerlogos und Schriftzüge vom Schlitten entfernt.
 
-Bearbeitung für den Stage Planner: Herstellerlogos und Schriftzüge vom Schlitten entfernt,
-Texturen verkleinert (2048/1024 px), in Teile für Schlitten, Abzug und Magazin zerlegt, als GLB gespeichert.
-Die Rohdateien werden nicht weitergegeben. "Glock" ist eine Marke der GLOCK Ges.m.b.H.; der Stage Planner steht in keiner Verbindung zum Hersteller.
+gun-pcc.glb   PCC Optics / PCC Iron
+  Grundlage: "Colt 9mm AR6951 Semi-Automatic Carbine" von 8sianDude (https://sketchfab.com/haoliu95)
+  Quelle:    https://sketchfab.com/3d-models/colt-9mm-ar6951-semi-automatic-carbine-b113dc0908bb4b529cf8b0a6e7651391
+  Lizenz:    CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  This work is based on "Colt 9mm AR6951 Semi-Automatic Carbine" by 8sianDude, licensed under CC-BY-4.0.
+
+gun-2011.glb  Standard / Optics (Pistole nach 2011-Muster)
+gun-1911.glb  Classic Major (1911, .45 ACP)
+gun-ro.glb    Classic Minor (1911, 9 mm)
+gun-rev.glb   Revolver (6 Schuss Major; die 8er-Trommel für Minor ist aus der 6er-Trommel umgerechnet)
+gun-dot.glb   Rotpunktvisier (Production Optics, Optics, Open, PCC Optics)
+  Vom Projektinhaber bereitgestellte Modelle; Herkunft und Lizenz sind bei ihm hinterlegt.
+
+Bearbeitung für alle Modelle: in bewegliche Teile zerlegt (Schlitten, Abzug, Hahn, Magazin, Trommel), Dreiecke für VR-Brillen
+reduziert, Texturen verkleinert, als GLB gespeichert. Die Rohdateien werden nicht weitergegeben.
+Genannte Marken (z. B. Glock, Colt) gehören ihren Inhabern; der Stage Planner steht in keiner Verbindung zu den Herstellern.
