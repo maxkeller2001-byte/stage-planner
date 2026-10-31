@@ -11,6 +11,7 @@ gun-pcc.glb   PCC Optics / PCC Iron
   Quelle:    https://sketchfab.com/3d-models/colt-9mm-ar6951-semi-automatic-carbine-b113dc0908bb4b529cf8b0a6e7651391
   Lizenz:    CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
   This work is based on "Colt 9mm AR6951 Semi-Automatic Carbine" by 8sianDude, licensed under CC-BY-4.0.
+  Bearbeitung: Lochkimme und Kornfuß als eigene Teile abgetrennt (bei PCC Optics ausgeblendet).
 
 gun-2011.glb  Standard / Optics (Pistole nach 2011-Muster)
 gun-1911.glb  Classic Major (1911, .45 ACP)
