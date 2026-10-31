@@ -1,4 +1,4 @@
-3D-Modelle der Waffen im Stage Planner (gun-*.glb)
+3D-Modelle der Waffen und Patronen im Stage Planner (gun-*.glb)
 
 gun-g19.glb   Production / Production Optics
   Grundlage: "Glock 19 Semi Automatic Pistol 9mm" von luisbcompany
@@ -11,15 +11,52 @@ gun-pcc.glb   PCC Optics / PCC Iron
   Quelle:    https://sketchfab.com/3d-models/colt-9mm-ar6951-semi-automatic-carbine-b113dc0908bb4b529cf8b0a6e7651391
   Lizenz:    CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
   This work is based on "Colt 9mm AR6951 Semi-Automatic Carbine" by 8sianDude, licensed under CC-BY-4.0.
-  Bearbeitung: Lochkimme und Kornfuß als eigene Teile abgetrennt (bei PCC Optics ausgeblendet).
+  Bearbeitung: Lochkimme, Kornfuß, Verschluss, Ladehebel und Staubschutzklappe als eigene Teile abgetrennt;
+               Herstellermarkierungen und Aufkleber übermalt.
 
-gun-2011.glb  Standard / Optics (Pistole nach 2011-Muster)
-gun-1911.glb  Classic Major (1911, .45 ACP)
+gun-1911.glb  Classic Major (.45 ACP)
+  Grundlage: "Kimber Stainless TLE/RL II 1911 .45ACP" von 8sianDude (https://sketchfab.com/haoliu95)
+  Quelle:    https://sketchfab.com/3d-models/kimber-stainless-tlerl-ii-1911-45acp-9b2503a1283b4c1fa506510c9dc7d1f5
+  Lizenz:    CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  This work is based on "Kimber Stainless TLE/RL II 1911 .45ACP" by 8sianDude, licensed under CC-BY-4.0.
+  Bearbeitung: nach dem Skelett in Teile zerlegt, Deko-Magazine und lose Patronen entfernt, Herstellerschriftzüge übermalt.
+
+gun-open.glb  Open
+  Grundlage: "Beretta 92X - 9mm Pistol" von KaL-ABIZZARE (https://sketchfab.com/WPthai)
+  Quelle:    https://sketchfab.com/3d-models/beretta-92x-9mm-pistol-8d650aa5e3c34cbab403dd27295fc5e2
+  Lizenz:    CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  This work is based on "Beretta 92X - 9mm Pistol" by KaL-ABIZZARE, licensed under CC-BY-4.0.
+  Bearbeitung: Waffenlampe und lose Patrone entfernt; Markierungen, Barcode und QR-Code übermalt.
+
+gun-r9.glb    Patrone 9 mm Luger (alle Minor-Waffen, auch Revolver Minor)
+  Grundlage: "9×19mm Parabellum (Luger, 9mm, NATO, Bullet)" von Lorenzo-Richmond (https://sketchfab.com/Lorenzo-Richmond)
+  Quelle:    https://sketchfab.com/3d-models/919mm-parabellum-luger-9mm-nato-bullet-692a830a933e47c497723435f9a2769a
+  Lizenz:    CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  This work is based on "9×19mm Parabellum (Luger, 9mm, NATO, Bullet)" by Lorenzo-Richmond, licensed under CC-BY-4.0.
+  Bearbeitung: eigene Materialien (Messing, Kupfer), Zündhütchen ergänzt.
+
+gun-r45.glb   Patrone .45 ACP (alle Major-Waffen außer Revolver)
+  Grundlage: "45 ACP Bullets" von Y2JHBK (https://sketchfab.com/Y2JHBK)
+  Quelle:    https://sketchfab.com/3d-models/45-acp-bullets-79996ceb2e654f8cbd84d422a20ab428
+  Lizenz:    CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+  This work is based on "45 ACP Bullets" by Y2JHBK, licensed under CC-BY-4.0.
+  Bearbeitung: eine Patrone ausgewählt, Hülse und Geschoss getrennt, Texturen verkleinert.
+
+gun-r357.glb  Patrone .357 Magnum (Revolver Major)
+  Grundlage: "357 magnum bullets" von Damian Joseph (https://sketchfab.com/Dmaanji.hopes)
+  Quelle:    https://sketchfab.com/3d-models/357-magnum-bullets-7b8da3b0b25840d3a65ebd6e6c7aca38
+  Lizenz:    CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+  This work is based on "357 magnum bullets" by Damian Joseph, licensed under CC-BY-SA-4.0.
+  Die bearbeitete Datei gun-r357.glb steht ebenfalls unter CC-BY-SA-4.0.
+  Bearbeitung: eine Patrone ausgewählt, auf 40 mm Länge skaliert, Hülse und Geschoss getrennt.
+
+gun-2011.glb  Standard / Optics (Pistole nach 2011-Muster; bei Optics ohne Kimme)
 gun-ro.glb    Classic Minor (1911, 9 mm)
 gun-rev.glb   Revolver (6 Schuss Major; die 8er-Trommel für Minor ist aus der 6er-Trommel umgerechnet)
-gun-dot.glb   Rotpunktvisier (Production Optics, Optics, Open, PCC Optics)
+gun-dot.glb   Rotpunktvisier (Production Optics, Optics, PCC Optics)
   Vom Projektinhaber bereitgestellte Modelle; Herkunft und Lizenz sind bei ihm hinterlegt.
+  Bearbeitung gun-ro.glb: Emblem auf den Griffschalen übermalt.
 
 Bearbeitung für alle Modelle: in bewegliche Teile zerlegt (Schlitten, Abzug, Hahn, Magazin, Trommel), Dreiecke für VR-Brillen
 reduziert, Texturen verkleinert, als GLB gespeichert. Die Rohdateien werden nicht weitergegeben.
-Genannte Marken (z. B. Glock, Colt) gehören ihren Inhabern; der Stage Planner steht in keiner Verbindung zu den Herstellern.
+Genannte Marken (z. B. Glock, Colt, Kimber, Beretta) gehören ihren Inhabern; der Stage Planner steht in keiner Verbindung zu den Herstellern.
