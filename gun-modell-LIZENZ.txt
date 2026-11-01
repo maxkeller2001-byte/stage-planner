@@ -14,19 +14,19 @@ gun-pcc.glb   PCC Optics / PCC Iron
   Bearbeitung: Lochkimme, Kornfuß, Verschluss, Ladehebel und Staubschutzklappe als eigene Teile abgetrennt;
                Herstellermarkierungen und Aufkleber übermalt.
 
-gun-1911.glb  Classic Major (.45 ACP)
+gun-1911.glb  Classic Major (.45 ACP) und Classic Minor (9 mm)
   Grundlage: "Kimber Stainless TLE/RL II 1911 .45ACP" von 8sianDude (https://sketchfab.com/haoliu95)
   Quelle:    https://sketchfab.com/3d-models/kimber-stainless-tlerl-ii-1911-45acp-9b2503a1283b4c1fa506510c9dc7d1f5
   Lizenz:    CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
   This work is based on "Kimber Stainless TLE/RL II 1911 .45ACP" by 8sianDude, licensed under CC-BY-4.0.
-  Bearbeitung: nach dem Skelett in Teile zerlegt, Deko-Magazine und lose Patronen entfernt, Herstellerschriftzüge übermalt.
+  Bearbeitung: nach dem Skelett in Teile zerlegt, Deko-Magazine und Patronen entfernt, gerade ausgerichtet, Herstellerschriftzüge übermalt.
 
 gun-open.glb  Open
   Grundlage: "Beretta 92X - 9mm Pistol" von KaL-ABIZZARE (https://sketchfab.com/WPthai)
   Quelle:    https://sketchfab.com/3d-models/beretta-92x-9mm-pistol-8d650aa5e3c34cbab403dd27295fc5e2
   Lizenz:    CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
   This work is based on "Beretta 92X - 9mm Pistol" by KaL-ABIZZARE, licensed under CC-BY-4.0.
-  Bearbeitung: Waffenlampe und lose Patrone entfernt; Markierungen, Barcode und QR-Code übermalt.
+  Bearbeitung: Waffenlampe und lose Patrone entfernt; Markierungen, Gravur, Barcode und QR-Code übermalt.
 
 gun-r9.glb    Patrone 9 mm Luger (alle Minor-Waffen, auch Revolver Minor)
   Grundlage: "9×19mm Parabellum (Luger, 9mm, NATO, Bullet)" von Lorenzo-Richmond (https://sketchfab.com/Lorenzo-Richmond)
@@ -51,11 +51,9 @@ gun-r357.glb  Patrone .357 Magnum (Revolver Major)
   Bearbeitung: eine Patrone ausgewählt, auf 40 mm Länge skaliert, Hülse und Geschoss getrennt.
 
 gun-2011.glb  Standard / Optics (Pistole nach 2011-Muster; bei Optics ohne Kimme)
-gun-ro.glb    Classic Minor (1911, 9 mm)
-gun-rev.glb   Revolver (6 Schuss Major; die 8er-Trommel für Minor ist aus der 6er-Trommel umgerechnet)
+gun-rev.glb   Revolver (6 Schuss Major; die 8er-Trommel für Minor wird im Programm eigens gebaut)
 gun-dot.glb   Rotpunktvisier (Production Optics, Optics, PCC Optics)
   Vom Projektinhaber bereitgestellte Modelle; Herkunft und Lizenz sind bei ihm hinterlegt.
-  Bearbeitung gun-ro.glb: Emblem auf den Griffschalen übermalt.
 
 Bearbeitung für alle Modelle: in bewegliche Teile zerlegt (Schlitten, Abzug, Hahn, Magazin, Trommel), Dreiecke für VR-Brillen
 reduziert, Texturen verkleinert, als GLB gespeichert. Die Rohdateien werden nicht weitergegeben.
