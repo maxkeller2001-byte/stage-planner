@@ -1,0 +1,19 @@
+Klänge der Schießsimulation im Stage Planner (sfx.wav)
+
+Alle Aufnahmen stehen unter CC0 1.0 (gemeinfrei, https://creativecommons.org/publicdomain/zero/1.0/).
+Geschnitten, auf Mono 32 kHz umgerechnet und in eine Datei zusammengefasst mit tools/sfx-build.py.
+
+Schüsse – Major (Colt 1911, .45 ACP), Minor (Walther PPQ, 9 mm), Revolver (Smith & Wesson 642, .38 Special)
+  Quelle:  "The Free Firearm Sound Library" (Prepared SFX Library), Still North Media
+           https://opengameart.org/content/the-free-firearm-sound-library
+           http://www.stillnorthmedia.com/firearm-sound-library.html
+  Aufgenommen von Ben Jaszczak, Brian Nelson, Kevin Heras und Matthew Nanney.
+  Lizenz:  CC0 ("Our team holds CC0 NO RIGHTS RESERVED for this library.")
+
+Magazin heraus, Magazin einsetzen, Schlitten zurück und vor
+  Quelle:  "Handgun Reload Sound Effect" (reload.wav), https://opengameart.org/content/handgun-reload-sound-effect
+  Lizenz:  CC0
+
+Hahn spannen, Hahn abschlagen, Schlagbolzen-Klick
+  Quelle:  "Equipment Clicks III" (equipment_clicks3.wav), https://opengameart.org/content/equipment-clicks-iii
+  Lizenz:  CC0
