@@ -1,5 +1,5 @@
 // Stage Planner – Offline-Cache. Bei jedem Release CACHE-Version erhöhen.
-const CACHE = 'stage-planner-v3.3.16';
+const CACHE = 'stage-planner-v3.3.17';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon.svg', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './xr-left.glb', './xr-right.glb', './gun-g19.glb', './gun-2011.glb', './gun-1911.glb', './gun-rev.glb', './gun-pcc.glb', './gun-dot.glb', './gun-open.glb', './gun-r9.glb', './gun-r45.glb', './gun-r357.glb', './sfx.wav'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));
